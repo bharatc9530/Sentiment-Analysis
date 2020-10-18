@@ -2,7 +2,7 @@
 
 
 ```
-
+Project workflow
 ├── config.py (It contain all parameter of Bert model and path for dataset) 
 │    ├── IMDB Dataset.csv (It is Amazon review dataset contain review and sentiment associate with it)
 │    ├── dataset.py (Load dataset, preprocessing and input for model)
@@ -24,6 +24,8 @@
 ## Tools: Flask, Transformers, pytorch, HTML, CSS, Javascripts, AWS EC2, nltk
 
 ## Deployment code is available in deploy branch containing web application integrated with Flask app
+[Deploy](https://github.com/bharatc9530/Sentiment-Analysis/tree/deploy)
+
 
 ## Result 
 ![WhatsApp Video 2020-10-18 at 4 36 06 PM](https://user-images.githubusercontent.com/58046531/96370690-54b99f00-117c-11eb-8f74-b06007d3ddb1.gif)
