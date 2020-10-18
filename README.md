@@ -12,15 +12,18 @@
 │    └── Train & Predict.ipynb (It run all the python scripts for training and prediction in Jupyter Notebook)
 
 
-Deployment code is available in deploy branch containing web application and Flask app
 ```
-
 ## Build End-to-End Machine learning pipline for preprocessing, exploratory data analysis, modelling, deployment. 
 
 ## Train over Amazon review dataset using Bert Transformer model and use f1-score for evalution of model. 
 [Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)
 
-## Tools: Flask, Transformers, pytorch, HTML, CSS, Javascripts, AWS EC2
+## Trained model can be download 
+[Model](https://drive.google.com/file/d/10AOBLpnIStJrgtq9yH25XEG6Ml1nCA4h/view?usp=sharing)
+
+## Tools: Flask, Transformers, pytorch, HTML, CSS, Javascripts, AWS EC2, nltk
+
+## Deployment code is available in deploy branch containing web application integrated with Flask app
 
 ## Result 
 ![WhatsApp Video 2020-10-18 at 4 36 06 PM](https://user-images.githubusercontent.com/58046531/96370690-54b99f00-117c-11eb-8f74-b06007d3ddb1.gif)
